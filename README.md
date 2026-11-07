@@ -189,5 +189,3 @@ Revenue per Customer = DIVIDE([Segment Revenue], [Customers])
 - Use the campaign and coupon tables to measure win-back response.
 
 ---
-
-*Author: [Your name] · [LinkedIn] · [Email]*
