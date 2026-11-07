@@ -2,9 +2,6 @@
 
 An interactive 3-page Power BI dashboard that tracks retail sales performance, product contribution and customer value. It combines a PostgreSQL SQL layer, a Power BI star-style data model, DAX measures and RFM customer segmentation.
 
-**Live dashboard:** [add Power BI public link]
-**Screenshots:** see the `/screenshots` folder
-
 ---
 
 ## Business Questions
